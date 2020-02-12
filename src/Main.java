@@ -18,10 +18,7 @@ public class Main {
         conta2.deposito(20);
         conta2.saque(700);
 
-        ContaCorrente conta3 = new ContaCorrente(2000);
 
-        conta3.deposito(10);
-        conta3.saque(150);
 
 
     }
